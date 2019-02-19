@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+
+<body>
+    <div>
+		<div class='fromcontent'>
+			<!--[fromcontent]-->
+		</div>
+		<p>-----------------------------</p>
+		<div class='tocontent'>
+			<!--[tocontent]-->
+		</div>
+    </div>
+    <script src="jquery.js"></script>
+    <script>
+        $(document).ready(function() {
+            $(".red").click(function() {
+                var classname = $(this).attr("class");
+				var pclassname = $(this).parent().attr("class");
+				var boxclass='.fromcontent';
+				if(pclassname.indexOf('fromcontent')>-1) boxclass='.tocontent';
+
+                $(".red").css("background", "#ffffff");
+
+				$(this).css("background", "#ffff00");
+                var classarr = classname.split(' ');
+                for (var i = 1; i < classarr.length; i++) {
+                    $(boxclass+" ." + classarr[i]).css("background", "#ffff00");
+                }
+
+            })
+        })
+    </script>
+</body>
+
+</html>

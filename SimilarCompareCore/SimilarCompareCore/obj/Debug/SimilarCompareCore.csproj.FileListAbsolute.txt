@@ -1,0 +1,9 @@
+E:\SimilarCompareCore\SimilarCompareCore\bin\Debug\SimilarCompareCore.dll
+E:\SimilarCompareCore\SimilarCompareCore\bin\Debug\SimilarCompareCore.pdb
+E:\SimilarCompareCore\SimilarCompareCore\bin\Debug\Lucene.Net.dll
+E:\SimilarCompareCore\SimilarCompareCore\bin\Debug\PanGu.dll
+E:\SimilarCompareCore\SimilarCompareCore\bin\Debug\PanGu.HighLight.dll
+E:\SimilarCompareCore\SimilarCompareCore\bin\Debug\PanGu.Lucene.Analyzer.dll
+E:\SimilarCompareCore\SimilarCompareCore\obj\Debug\SimilarCompareCore.dll
+E:\SimilarCompareCore\SimilarCompareCore\obj\Debug\SimilarCompareCore.pdb
+E:\SimilarCompareCore\SimilarCompareCore\obj\Debug\SimilarCompareCore.csprojResolveAssemblyReference.cache

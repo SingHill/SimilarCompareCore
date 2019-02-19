@@ -1,0 +1,13 @@
+E:\SimilarCompareCore\SimilarCompareCoreTest\bin\Debug\SimilarCompareCoreTest.exe
+E:\SimilarCompareCore\SimilarCompareCoreTest\bin\Debug\SimilarCompareCoreTest.pdb
+E:\SimilarCompareCore\SimilarCompareCoreTest\obj\Debug\SimilarCompareCoreTest.exe
+E:\SimilarCompareCore\SimilarCompareCoreTest\obj\Debug\SimilarCompareCoreTest.pdb
+E:\SimilarCompareCore\SimilarCompareCoreTest\bin\Debug\Data\content.txt
+E:\SimilarCompareCore\SimilarCompareCoreTest\bin\Debug\Data\content2.txt
+E:\SimilarCompareCore\SimilarCompareCoreTest\bin\Debug\PanGu.dll
+E:\SimilarCompareCore\SimilarCompareCoreTest\bin\Debug\PanGu.HighLight.dll
+E:\SimilarCompareCore\SimilarCompareCoreTest\bin\Debug\PanGu.Lucene.Analyzer.dll
+E:\SimilarCompareCore\SimilarCompareCoreTest\bin\Debug\SimilarCompareCore.dll
+E:\SimilarCompareCore\SimilarCompareCoreTest\bin\Debug\SimilarCompareCore.pdb
+E:\SimilarCompareCore\SimilarCompareCoreTest\obj\Debug\SimilarCompareCoreTest.csprojResolveAssemblyReference.cache
+E:\SimilarCompareCore\SimilarCompareCoreTest\bin\Debug\Data\htmltemplate.html
